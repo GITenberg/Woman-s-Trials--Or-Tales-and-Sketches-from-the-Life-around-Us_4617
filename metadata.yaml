@@ -1,0 +1,45 @@
+_repo: Woman-s-Trials--Or-Tales-and-Sketches-from-the-Life-around-Us_4617
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Arthur, T. S. (Timothy Shay)
+    aliases:
+    - Herbert, Uncle
+    - Arthur, Timothy Shay
+    - Uncle Herbert
+    birthdate: 1809
+    deathdate: 1885
+    gutenberg_agent_id: '1513'
+    url: http://www.gutenberg.org/2009/agents/1513
+    wikipedia: http://en.wikipedia.org/wiki/Timothy_Shay_Arthur
+description: I was very unhappy, from a variety of causes, definable and undefinable.
+  My chambermaid had been cross for a week, and, by talking to my cook, had made her
+  dissatis-fied with her place. The mother of five little children, I felt that I
+  had a weight of care and responsibility greater than I could support. I was unequal
+  to the task. My spirits fell under its bare contemplation. Then I had been disappointed
+  in a seamstress, and my children were, as the saying is, "in rags." While brooding
+  over these and other dishearte-ning circumstances, Netty, my chambermaid, opened
+  the door of the room where I was sitting, (it was Monday morning,) and said- "Harriet
+  has just sent word that she is sick, and can't come to-day." "Then you and Agnes
+  will have to do the washing," I replied, in a fretful voice; this new source of
+  trouble completely breaking me down. "Indeed, ma'am," replied Netty, tossing her
+  head and speaking with some pertness, "I can't do the washing. I didn't engage for
+  any thing but chamber-work."
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4617'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Women -- Conduct of life -- Fiction'
+- GITenberg
+tableOfContents: A lesson of patience -- I didn't think of that -- Taking boarders
+  -- Plain sewing; or, how to encourage the poor -- Jessie Hampton -- The New Year's
+  Gift -- Aunt Mary's preserving kettle -- Home at last -- Going home.
+title: Woman's Trials; Or, Tales and Sketches from the Life around Us
+url: http://www.gutenberg.org/ebooks/4617
