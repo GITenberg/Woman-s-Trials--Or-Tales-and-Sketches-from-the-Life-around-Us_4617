@@ -1,5 +1,8 @@
 _repo: Woman-s-Trials--Or-Tales-and-Sketches-from-the-Life-around-Us_4617
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Arthur, T. S. (Timothy Shay)
@@ -25,6 +28,8 @@ description: I was very unhappy, from a variety of causes, definable and undefin
   trouble completely breaking me down. "Indeed, ma'am," replied Netty, tossing her
   head and speaking with some pertness, "I can't do the washing. I didn't engage for
   any thing but chamber-work."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4617#Woman-s-Trials--Or-Tales-and-Sketches-from-the-Life-around-Us
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
